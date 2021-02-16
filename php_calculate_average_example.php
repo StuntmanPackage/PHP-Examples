@@ -8,6 +8,6 @@ Date: February 16 2021  */
 	$total = $round1 + $round2 + $round3;
 	$average = round(($total / 3), 1);
 	
-	echo "Total time over the three laps is: " . $total . " seconds. <br />";
+	echo "Total time over the three laps is: " . $total . " seconds. <br/>";
 	echo "The average lap time is: " .$average . " seconds.";
 ?>
