@@ -2,8 +2,12 @@
 Simple examples to show what you can do with PHP.
 
 ## Version History
+- 0.2
+  - Release of 'php_vat_calculator_example.php'
+  
 - 0.1
-  - Initial release of 'php_arrays_example.php'
+  - Birth of this repository 
+  - Release of 'php_arrays_example.php'
   
 ## License
 All files in this repository are free to use.
