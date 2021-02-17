@@ -35,7 +35,7 @@
 	<?php
 	for ($i = 0; $i < count($posts); $i++): 
 	/** 
-	*You can see I'm using a : instead of a ; 
+	* You can see I'm using a : instead of a ; 
 	* It's because I still need to use the for-loop in the div below. 
 	*/ 
 	?> 
