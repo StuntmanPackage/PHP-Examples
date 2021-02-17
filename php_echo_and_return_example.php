@@ -1,6 +1,8 @@
 <?php
-/* Have fun, made by StuntmanPackage 
-Date: February 16 2021  */
+/**
+ * Have fun, made by StuntmanPackage 
+ * Date: February 16 2021 
+ */
 
 /* Echo */
   echo 'Cat ';

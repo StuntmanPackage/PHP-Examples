@@ -1,6 +1,8 @@
 <?php
-/* Have fun, made by StuntmanPackage 
-Date: February 17 2021  */
+/**
+ * Have fun, made by StuntmanPackage 
+ * Date: February 17 2021 
+ */
 
 	function calculateVat($price, $vat =  21){
 		$vatFromPrice = ($price  / 100) * $vat;

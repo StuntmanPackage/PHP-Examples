@@ -1,6 +1,3 @@
-<!-- Have fun, made by StuntmanPackage 
-Date: February 17 2021  -->
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,6 +20,11 @@ Date: February 17 2021  -->
 <body>
 
 <?php
+/**
+ * Have fun, made by StuntmanPackage 
+ * Date: February 17 2021 
+ */
+
 	$posts = array(
 		["title" => "My first blog", "date" => "February 15 2021", "author" => " John"], 
 		["title" => "My second blog", "date" => "February 16 2021", "author" => " Thomas"],

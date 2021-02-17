@@ -1,6 +1,8 @@
 <?php
-/* Have fun, made by StuntmanPackage 
-Date: February 16 2021  */
+/**
+ * Have fun, made by StuntmanPackage 
+ * Date: February 16 2021 
+ */
 
 $carBrands = array("Mercedes", "Ford", "Audi", "BMW", "Jaguar");
 $horsepower = array("Mercedes" => 200, "Ford" => 125, "Audi" => 450);

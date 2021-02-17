@@ -1,6 +1,8 @@
 <?php
-/* Have fun, made by StuntmanPackage 
-Date: February 17 2021  */
+/**
+ * Have fun, made by StuntmanPackage 
+ * Date: February 17 2021 
+ */
 
 	$age = 18;
 	$driverLicense = true; /* Change this to true and see what happens! */
