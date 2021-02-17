@@ -3,7 +3,7 @@ Simple examples to show what you can do with PHP.
 
 ## Version History
 - 0.3
-  - Correct way of Docblock implemented. 
+  - Correct way of Docblock implemented
   - Fixed a consistency issue in the 'php_echo_and_return_example.php'
   - Release of 'php_if_statement_example.php'
   - Release of 'php_simplified_vat_calculator_example.php'
