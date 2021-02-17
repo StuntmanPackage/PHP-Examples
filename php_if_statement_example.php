@@ -5,7 +5,7 @@
  */
 
 	$age = 18;
-	$driverLicense = true; /* Change this to true and see what happens! */
+	$driverLicense = false; /* Change this to true and see what happens! */
 
 	if ($age >= 18 && $driverLicense){
 		echo "You may drive a car.";
