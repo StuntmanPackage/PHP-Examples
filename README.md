@@ -5,6 +5,7 @@ Simple examples to show what you can do with PHP.
 - 0.2
   - Release of 'php_vat_calculator_example.php'
   - Release of 'php_calculate_average_example.php'
+  - Release of 'php_echo_and_return_example.php'
   
 - 0.1
   - Birth of this repository 
