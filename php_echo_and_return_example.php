@@ -3,20 +3,20 @@
 Date: February 16 2021  */
 
 /* Echo */
-echo 'Cat ';
-echo 'Dog ';
+  echo 'Cat ';
+  echo 'Dog ';
 
-$name = 'John ';
-echo $name;
-echo 3 + 2;
+  $name = 'John ';
+  echo $name;
+  echo 3 + 2;
 
-echo "<br/>";
+  echo "<br/>";
 
 /* Return */
-function test() {
+  function test() {
     return ' Johnny';
   }
 
-$name = test();
-echo $name;
+  $name = test();
+  echo $name;
 ?>
