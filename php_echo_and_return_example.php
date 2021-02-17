@@ -17,6 +17,6 @@ function test() {
     return ' Johnny';
   }
 
-  $name = test();
-  echo $name;
+$name = test();
+echo $name;
 ?>
