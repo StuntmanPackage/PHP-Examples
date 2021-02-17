@@ -10,6 +10,6 @@
 	if ($age >= 18 && $driversLicense){
 		echo "You may drive a car.";
 	} else{
-		echo "You are now allowed to drive a car!";
+		echo "You are not allowed to drive a car!";
 	}
 ?>
