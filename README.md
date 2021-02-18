@@ -3,8 +3,8 @@ Simple examples to show what you can do with PHP.
 
 ## Version History
 - 0.4
-  - Release of 'php_explode_example.php'
   - Fixed small typos in several files
+  - Release of 'php_explode_example.php'
 
 - 0.3
   - Correct way of Docblock implemented
